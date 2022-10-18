@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1609162268 source:c:\users\leonardo rebello\documents\github\ttc-hardwareacelerator_svm_hsi\fixedpoint_svm_classification\hsi_classification.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"defines.h"
+	"fileReader.h"
+	"qmath.h"
+
+1606556215 c:\users\leonardo rebello\documents\github\ttc-hardwareacelerator_svm_hsi\fixedpoint_svm_classification\fixedptc.h
+	<stdint.h>
+
+1608344947 c:\users\leonardo rebello\documents\github\ttc-hardwareacelerator_svm_hsi\fixedpoint_svm_classification\defines.h
+
+1606698435 c:\users\leonardo rebello\documents\github\ttc-hardwareacelerator_svm_hsi\fixedpoint_svm_classification\filereader.h
+
+1609158006 c:\users\leonardo rebello\documents\github\ttc-hardwareacelerator_svm_hsi\fixedpoint_svm_classification\qmath.h
+	<stdint.h>
+
+1612040978 source:c:\users\leonardo rebello\documents\github\ttc-hardwareacelerator_svm_hsi\c\fixedpoint_svm_classification\hsi_classification.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"defines.h"
+	"fileReader.h"
+	"qmath.h"
+
+1612015212 c:\users\leonardo rebello\documents\github\ttc-hardwareacelerator_svm_hsi\c\fixedpoint_svm_classification\defines.h
+
+1606698435 c:\users\leonardo rebello\documents\github\ttc-hardwareacelerator_svm_hsi\c\fixedpoint_svm_classification\filereader.h
+
+1612040519 c:\users\leonardo rebello\documents\github\ttc-hardwareacelerator_svm_hsi\c\fixedpoint_svm_classification\qmath.h
+	<stdint.h>
+
+1662994493 source:d:\matlab\fixedpoint_svm_classification\hsi_classification.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"defines.h"
+	"fileReader.h"
+	"qmath.h"
+
+1660854662 d:\matlab\fixedpoint_svm_classification\defines.h
+
+1660851502 d:\matlab\fixedpoint_svm_classification\filereader.h
+
+1612022518 d:\matlab\fixedpoint_svm_classification\qmath.h
+	<stdint.h>
+
